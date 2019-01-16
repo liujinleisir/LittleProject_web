@@ -3,7 +3,7 @@
  * @param name指的是  还有[name]属性
  * 如 name ='name' ，name='id' ...
  */
-function dealChineseEncode(fm, name) {
+function dealChineseEncode(name) {
     var elems = document.getElementsByTagName("*");
     for (var i = 0; i < elems.length; i++) {
         if (elems[i].hasAttribute(name)) {
