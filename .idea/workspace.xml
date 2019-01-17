@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90f3d03a-b387-43c1-9360-74e22ca6e6d0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/images/left/app.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/left/channel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/left/cloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/left/custom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/left/line_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/left/select_xl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/left/select_xl01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/left/source.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/left/statistics.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/left/syetem_management.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/left/system.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/register/registerService/registerService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LittleProject_web.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/loginService/loginService.js" beforeDir="false" afterPath="$PROJECT_DIR$/login/loginService/loginService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register/register.html" afterDir="false" />
-    </list>
+    <list default="true" id="90f3d03a-b387-43c1-9360-74e22ca6e6d0" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -271,15 +252,16 @@
       <option name="presentableId" value="Default" />
       <updated>1547635805431</updated>
       <workItem from="1547635806868" duration="359000" />
-      <workItem from="1547689302855" duration="17085000" />
+      <workItem from="1547689302855" duration="17105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17444000" />
+    <option name="totallyTimeSpent" value="17464000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
