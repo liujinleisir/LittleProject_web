@@ -87,7 +87,9 @@ http {
 		}
 		
 		location /xplatform {
+			#proxy_pass http://10.7.128.60:8004/xplatform;
 			proxy_pass http://127.0.0.1:8762/messageBoard/login;
+			#proxy_pass http://localhost:8769/xplatform;
 			access_log "logs/app-test.log";
 		}
 		
